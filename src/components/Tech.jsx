@@ -12,7 +12,7 @@ const Tech = () => {
       <div className="flex flex-wrap items-center justify-center gap-4">
 
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
-            <RiReactjsLine className="text-7xl text-cyan-400"/>
+            <FaHtml5 className="text-7xl text-orange-600"/>
         </div>
 
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
@@ -20,7 +20,7 @@ const Tech = () => {
         </div>
 
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
-            <FaHtml5 className="text-7xl text-orange-600"/>
+            <RiReactjsLine className="text-7xl text-cyan-400"/>
         </div>
 
         <div className="rounded-2xl border-4 border-neutral-800 p-4">
